@@ -2,7 +2,7 @@
 
 # 生信单行脚本
 
-生信息有用的单行脚本 (and [some, more generally useful](#etc)).  
+生物信息有用的单行脚本 (and [some, more generally useful](#etc)).  
 
 
 ## contents
